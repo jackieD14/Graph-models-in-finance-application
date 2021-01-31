@@ -8,3 +8,4 @@
 - Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations (2020) [paper] (https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf)
 - VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls (2020)[(paper)](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf)
 - Time-aware Graph Relational Attention Network for Stock Recommendation(2020)[(paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412160?casa_token=iJHARlw9L3UAAAAA:gy91t3Ts7b6PThjHXrsICzaEnJjepfBbEFh5-qpHWxKaVwOEX881cL8GdhNaEi3ehsZpfCNNx4AN)
+-Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (2021)[(paper)](https://www.sciencedirect.com/science/article/pii/S0957417420310794?casa_token=zstNYW-ar-AAAAAA:8b0h1mfCIKqBuQBbqxw_MsL6LxvlE5rY_Pim6-0uAGvHh0dc7Hec0sIFFTeAQVXGAPv1reYc2w)
