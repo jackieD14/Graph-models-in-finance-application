@@ -11,10 +11,10 @@
 
 ### Credit card fraud prediction
 - Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)] (https://ojs.aaai.org//index.php/AAAI/article/view/5371)
-<!---Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (2021)[(paper)](https://www.sciencedirect.com/science/article/pii/S0957417420310794?casa_token=zstNYW-ar-AAAAAA:8b0h1mfCIKqBuQBbqxw_MsL6LxvlE5rY_Pim6-0uAGvHh0dc7Hec0sIFFTeAQVXGAPv1reYc2w)!>
 
 ### Malicious account detection in financial system
-Geniepath: Graph neural networks with adaptive receptive paths(AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(code)](https://github.com/safe-graph/DGFraud)
+- Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) 
+-  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
 
-### loan risk detection
-Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)] (https://www.ijcai.org/Proceedings/2019/0807.pdf)
+### Loan risk detection
+- Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)] (https://www.ijcai.org/Proceedings/2019/0807.pdf)
