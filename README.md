@@ -18,6 +18,9 @@
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
+
 ### Loan default risk detection
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
+- Risk Guarantee Prediction in Networked-Loans (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
 - Loan Default Analysis with Multiplex Graph Learning (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
+- Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
