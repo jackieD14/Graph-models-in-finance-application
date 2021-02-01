@@ -11,12 +11,14 @@
 - VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls (EMNLP 2020)[(Paper)](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf)
 - Time-aware Graph Relational Attention Network for Stock Recommendation (CIKM 2020)[(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412160?casa_token=iJHARlw9L3UAAAAA:gy91t3Ts7b6PThjHXrsICzaEnJjepfBbEFh5-qpHWxKaVwOEX881cL8GdhNaEi3ehsZpfCNNx4AN)
 - Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401427?casa_token=E7qBjGg_xngAAAAA:AfH-m-CVRBaOc0NFc-P-KvRKBSmvh5cSmyd3YxqD3F9FboXcrxzdm573xbVgnLaWZQuCpdzho3et)
+
 ### Financial fraud prediction
 - HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf)
 - Realtime Constrained Cycle Detection in Large Dynamic Graphs (VLDB 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.14778/3229863.3229874?casa_token=pghml_lNTWYAAAAA:IZExcFemxGfbYqCw-CaFCMGJL6wY7EgoowGjtrR0X8ZvMFC9E4u1X5Uw7pKymJ7kRkBN4_lcXvwd) [(Code)](https://github.com/NemesLaszlo/GraphS-system)
 - A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)
+- Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 
 ### Suspicious account detection in e-commerce platform
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
@@ -28,3 +30,4 @@
 - Risk Guarantee Prediction in Networked-Loans (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
 - Loan Default Analysis with Multiplex Graph Learning (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
+- Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
