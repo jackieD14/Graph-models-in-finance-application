@@ -8,4 +8,5 @@
 - A review of two decades of correlations, hierarchies, networks and clustering in financial markets (2017) [(Paper)](https://arxiv.org/pdf/1703.00485.pdf)
 
 ### Fraud detection
+- Graph based anomaly detection and description: a survey (2015) [(Paper)](https://link.springer.com/article/10.1007/s10618-014-0365-y)
 - A state of the art survey of data mining-based fraud detection and credit scoring (2018) [(Paper)](https://www.matec-conferences.org/articles/matecconf/pdf/2018/48/matecconf_meamt2018_03002.pdf)
