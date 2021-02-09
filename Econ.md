@@ -5,6 +5,6 @@
 - Network analysis of the Chinese stock market during the turbulence of 2015–2016 using log-returns, volumes and mutual information (Physica A 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0378437119304728?casa_token=tdHxte16bTMAAAAA:BNmhAxgW0lEYA9LuGCZwjItFeGVsHD_ekWv_C40pIBF1ZkW4T-jD2oHPCsDw2vGKrqeOBzzjPQ)
 - Predicting future stock market structure by combining social and financial network information  (Physica A 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0378437119313500?casa_token=EnkbcFIvP9sAAAAA:bdsSenSSrET1kF5d-Gty41EE4zlvrvU4XwZdCcq8q6bBcHRn9yGt4phmL77n7o3RLv1Gc2v6Ug)
 - Global stock market investment strategies based on financial network indicators using machine learning techniques (Expert Systems with Applications 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0957417418305761?casa_token=ANMGyCV_4PIAAAAA:BdZ5cVVA7r1ubeuz-vc0_9PFpJ7uwvxJ-Cs548mpUgBOBVn_BXj2tFtWXTFxuzlECHTBjPDxUg)
-- Return spillovers around the globe: A network approach (Economic Modeling 2019) [(Paper)](https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C33&q=Return+spillovers+around+the+globe%3A+A+network+approach&btnG=)
+- Return spillovers around the globe: A network approach (Economic Modeling 2019) [(Paper)](https://www.sciencedirect.com/science/article/pii/S0264999317310519?casa_token=c_A-Z4UALaEAAAAA:dQ5PXBcU8zUpZ9RgwxYyRydP7kPPEYlh47ZiMQ2KHPWygXhSA5rCklefR5igPI5lsPfA0uRqEQ)
 
 
