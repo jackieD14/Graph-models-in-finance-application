@@ -35,3 +35,4 @@
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
 - Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 - Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
+- Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
