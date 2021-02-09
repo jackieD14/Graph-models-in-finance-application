@@ -22,7 +22,9 @@
 
 
 ### Suspicious account detection in e-commerce platform
+- POSTER: Neural Network-based Graph Embedding for Malicious Accounts Detection (CCS 2017) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3133956.3138827?casa_token=CT4EK3sVhWoAAAAA:P0DMvVdnB6TdEn8f3vF_764-dpKeiLr65UGach8LyWAnQM5NJmb7oIWvfGQNwhRTiRQGsl2VHIOp)
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
+- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
