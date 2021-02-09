@@ -1,0 +1,10 @@
+## Financial network construction and application
+- Stock market as temporal network (Physica A 2018)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0378437118305752?casa_token=B1zUtUknUFgAAAAA:fpD76eGNoh6Y5nWy70DctbUDrrzosk6CtQP_Sw_AeSIzyrIBtg2qW8LsvPlqXYslzWeCsUZrMA)
+- Constructing financial network based on PMFG and threshold method (Physica A 2018)  [(Paper)]( https://www.sciencedirect.com/science/article/pii/S037843711731292X?casa_token=-k2EjCmqN00AAAAA:zhGeD9R55XBcGWycwPDzy_0Fz8N6JxCH0nj2r3_RmVae-Iy5dC4kN7XTgKkxzbIOAjLf4rXuyQ)
+- Improving portfolio optimization using weighted link prediction in dynamic stock networks (ICCS 2019) [(Paper)](https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C33&q=Improving+portfolio+optimization+using+weighted+link+prediction+in+dynamic+stock+networks&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3Ai6QfScWUx3MJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den)
+- Network analysis of the Chinese stock market during the turbulence of 2015–2016 using log-returns, volumes and mutual information (Physica A 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0378437119304728?casa_token=tdHxte16bTMAAAAA:BNmhAxgW0lEYA9LuGCZwjItFeGVsHD_ekWv_C40pIBF1ZkW4T-jD2oHPCsDw2vGKrqeOBzzjPQ)
+- Predicting future stock market structure by combining social and financial network information  (Physica A 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0378437119313500?casa_token=EnkbcFIvP9sAAAAA:bdsSenSSrET1kF5d-Gty41EE4zlvrvU4XwZdCcq8q6bBcHRn9yGt4phmL77n7o3RLv1Gc2v6Ug)
+- Global stock market investment strategies based on financial network indicators using machine learning techniques (Expert Systems with Applications 2019)  [(Paper)](https://www.sciencedirect.com/science/article/pii/S0957417418305761?casa_token=ANMGyCV_4PIAAAAA:BdZ5cVVA7r1ubeuz-vc0_9PFpJ7uwvxJ-Cs548mpUgBOBVn_BXj2tFtWXTFxuzlECHTBjPDxUg)
+- Return spillovers around the globe: A network approach (Economic Modeling 2019) [(Paper)](https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C33&q=Return+spillovers+around+the+globe%3A+A+network+approach&btnG=)
+
+
