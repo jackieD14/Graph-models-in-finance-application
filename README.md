@@ -17,7 +17,7 @@
 - A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
-- FlowScope: Spotting Money Laundering Based on Graphs [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)[(Code)](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb)
+- FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)[(Code)](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb) 
 <!-- Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)-->
 
 ### Suspicious account detection in e-commerce platform
@@ -25,6 +25,7 @@
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
 - Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
+- No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3308558.3313403?casa_token=kcUqKtcQCTwAAAAA:SsWvJ4DXxYPVEKfzScJlkJf0pPtNGKV2EeFde9usifovBiEs12-Z5d62IONfQes4lDrLn6XtMlO9)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
 ### Loan default risk detection
