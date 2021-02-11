@@ -18,8 +18,8 @@
 - A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
+- FlowScope: Spotting Money Laundering Based on Graphs [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)
 <!-- Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)-->
-
 
 ### Suspicious account detection in e-commerce platform
 - POSTER: Neural Network-based Graph Embedding for Malicious Accounts Detection (CCS 2017) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3133956.3138827?casa_token=CT4EK3sVhWoAAAAA:P0DMvVdnB6TdEn8f3vF_764-dpKeiLr65UGach8LyWAnQM5NJmb7oIWvfGQNwhRTiRQGsl2VHIOp)
