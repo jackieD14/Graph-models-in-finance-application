@@ -1,5 +1,4 @@
 # Graph-models-in-finance-application
-## Graph neural network models
 ### Stock prediction
 - Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269?casa_token=qkT-nreXKjAAAAAA:PWu9nuVshco6HHvTIRtwQ4M8KKgDLA1DUxPfRUbw4LKekHqm8B2UMOsPM0UUK7kB5InzNbe2M-vm) 
 - Temporal Relational Ranking for Stock Prediction (ACM TOIS 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3309547?casa_token=1-LBb6-Sg8sAAAAA:KGwC83jfJf5Ens-Fkns2uTO2IfNRfTrGTzzPhPCzKSuUirGfqR8tweMLYDpMFYgTToUHDgP5Na7e)[(Code)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
