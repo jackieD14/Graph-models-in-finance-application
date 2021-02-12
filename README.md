@@ -10,6 +10,7 @@
 - VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls (EMNLP 2020)[(Paper)](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf)
 - Time-aware Graph Relational Attention Network for Stock Recommendation (CIKM 2020)[(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412160?casa_token=iJHARlw9L3UAAAAA:gy91t3Ts7b6PThjHXrsICzaEnJjepfBbEFh5-qpHWxKaVwOEX881cL8GdhNaEi3ehsZpfCNNx4AN)
 - Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401427?casa_token=E7qBjGg_xngAAAAA:AfH-m-CVRBaOc0NFc-P-KvRKBSmvh5cSmyd3YxqD3F9FboXcrxzdm573xbVgnLaWZQuCpdzho3et)
+- FinSense: An Assistant System for Financial Journalists and Investors (WSDM 2021) [(Paper)](http://nlg.csie.ntu.edu.tw/~cjchen/papers/FinSense_WSDM_Demo_2021.pdf)
 
 ### Financial fraud prediction
 - HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf)
@@ -37,5 +38,10 @@
 - Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
 
+### Bitcoin transaction
+- Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
+- EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/5984) [(Code)](https://github.com/IBM/EvolveGCN)
+
 ### Others
 - Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents (CIKM 2020) [(Paper)](https://dl.acm.org/doi/abs/10.1145/3340531.3412707?casa_token=QYtSw-uPoyYAAAAA:ywodUHJco5k-iB-oVx6qq2Lx52B1qAp78JIog5cJkFYFHRyCJCp9l6em24DL_bB_kNOPNK4pMXBV) [(Code)](https://github.com/finint/graphSEAT)
+
