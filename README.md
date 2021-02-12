@@ -36,3 +36,6 @@
 - Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 - Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
+
+### Others
+- Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents (CIKM 2020) [(Paper)](https://dl.acm.org/doi/abs/10.1145/3340531.3412707?casa_token=QYtSw-uPoyYAAAAA:ywodUHJco5k-iB-oVx6qq2Lx52B1qAp78JIog5cJkFYFHRyCJCp9l6em24DL_bB_kNOPNK4pMXBV) [(Code)](https://github.com/finint/graphSEAT)
