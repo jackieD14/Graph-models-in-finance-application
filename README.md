@@ -41,6 +41,7 @@
 ### Bitcoin transaction
 - Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
 - EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/5984) [(Code)](https://github.com/IBM/EvolveGCN)
+- BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain (IJCAI 2020) [(Paper)](https://par.nsf.gov/servlets/purl/10176961)
 
 ### Others
 - Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents (CIKM 2020) [(Paper)](https://dl.acm.org/doi/abs/10.1145/3340531.3412707?casa_token=QYtSw-uPoyYAAAAA:ywodUHJco5k-iB-oVx6qq2Lx52B1qAp78JIog5cJkFYFHRyCJCp9l6em24DL_bB_kNOPNK4pMXBV) [(Code)](https://github.com/finint/graphSEAT)
