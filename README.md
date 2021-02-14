@@ -19,8 +19,10 @@
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
 - FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)[(Code)](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb) 
+- Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters(CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903?casa_token=UPHvdYBQrUEAAAAA:HiRuitww4VcARYlvwFsmHGLLbYseI6Qhr4a5sqYAzsQsQ5S1sZW_PmtKDnOrjJdlcuoApwekrlG3) [(Code)](https://github.com/YingtongDou/CARE-GNN)
+- GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
 <!-- Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)-->
-
+ 
 ### Suspicious account detection in e-commerce platform
 - POSTER: Neural Network-based Graph Embedding for Malicious Accounts Detection (CCS 2017) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3133956.3138827?casa_token=CT4EK3sVhWoAAAAA:P0DMvVdnB6TdEn8f3vF_764-dpKeiLr65UGach8LyWAnQM5NJmb7oIWvfGQNwhRTiRQGsl2VHIOp)
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
