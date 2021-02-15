@@ -33,7 +33,7 @@
 
 ### Loan default risk detection
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
-- Risk Guarantee Prediction in Networked-Loans (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
+- Risk Guarantee Prediction in Networked-Loans (IJCAI 2020) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
 - Loan Default Analysis with Multiplex Graph Learning (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
 - Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
