@@ -12,7 +12,9 @@
 - A state of the art survey of data mining-based fraud detection and credit scoring (2018) [(Paper)](https://www.matec-conferences.org/articles/matecconf/pdf/2018/48/matecconf_meamt2018_03002.pdf)
 
 ### Deep learning on graphs
+- A Comprehensive Survey on Graph Neural Networks (2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9046288&casa_token=f0SrASgTxT4AAAAA:TdPRQrSF_Xl1PEZZdmmOowGvlRBkaNgBy39Fce-aL3aPPpUXQSFVZgpXhu1fU_FHIqkb8fhn)
 - Deep Learning on Graphs: A Survey (2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9039675&casa_token=-D7r1w7DdkUAAAAA:khwVbrJr5zkKnYJvtBx-GvVaOF2mFzig2yCa6MmPu-yw5YYxTJ4Yf0T04yDQ0v0Fa3ChTLZf)
 - Machine Learning on Graphs: A Model and Comprehensive Taxonomy (2020) [(Paper)](https://arxiv.org/pdf/2005.03675.pdf)
 - Graph convolutional networks: a comprehensive review (2019)  [(Paper)](https://link.springer.com/article/10.1186/s40649-019-0069-y#Sec11)
+- Attention Models in Graphs: A Survey (2019)  [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3363574?casa_token=U4QJjBAuP2MAAAAA:YvZcw5C6eReqmRCJsXhh-DBiHhYHH8K1gVeh0Cyi7xeoRMdiXTVI81ySUVRXYh45ktB7ZE0tYh47)
 - Graph Neural Networks: A Review of Methods and Applications (2018) [(Paper)](https://arxiv.org/pdf/1812.08434.pdf)
