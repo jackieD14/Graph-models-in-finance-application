@@ -33,7 +33,7 @@
 
 ### Loan default risk detection
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
-- A Dynamic Default Prediction Framework for Networked-guarantee Loans (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357804?casa_token=g5aFfcJjuvcAAAAA:A_JSguUP7bDKzfvc3gS9g-xK148zDElFVI_9NcidQR2pesONKXweN-hMigy2Z60EeQGo1Tlzty7r)
+<!-- A Dynamic Default Prediction Framework for Networked-guarantee Loans (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357804?casa_token=g5aFfcJjuvcAAAAA:A_JSguUP7bDKzfvc3gS9g-xK148zDElFVI_9NcidQR2pesONKXweN-hMigy2Z60EeQGo1Tlzty7r)-->
 - Risk Guarantee Prediction in Networked-Loans (IJCAI 2020) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
 - Loan Default Analysis with Multiplex Graph Learning  (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
