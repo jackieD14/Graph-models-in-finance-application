@@ -39,6 +39,8 @@
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
 - Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
 - Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
+- Explainable predictive business process monitoring using gated graph neural networks [(Paper)](https://www.researchgate.net/profile/Matthias-Stierle/publication/342008639_Explainable_predictive_business_process_monitoring_using_gated_graph_neural_networks/links/5ef1f4de4585154d390e6163/Explainable-predictive-business-process-monitoring-using-gated-graph-neural-networks.pdf)
+- Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets (WSDM 2021) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743?casa_token=w-De8wHS94IAAAAA:YDNDnE6D62k3G5HDxjBfTapMB5LI6Y0piv3IJi-a8ZBsGIuCSPqAytAhBRLWinTA-CwJtP5ylmH8)
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
 
 ### Bitcoin transaction
