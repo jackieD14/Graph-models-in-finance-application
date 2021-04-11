@@ -42,6 +42,7 @@
 - Explainable predictive business process monitoring using gated graph neural networks [(Paper)](https://www.researchgate.net/profile/Matthias-Stierle/publication/342008639_Explainable_predictive_business_process_monitoring_using_gated_graph_neural_networks/links/5ef1f4de4585154d390e6163/Explainable-predictive-business-process-monitoring-using-gated-graph-neural-networks.pdf)
 - Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets (WSDM 2021) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743?casa_token=w-De8wHS94IAAAAA:YDNDnE6D62k3G5HDxjBfTapMB5LI6Y0piv3IJi-a8ZBsGIuCSPqAytAhBRLWinTA-CwJtP5ylmH8)
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
+- Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (Expert Systems with Applications 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310794)
 
 ### Bitcoin transaction
 - Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
