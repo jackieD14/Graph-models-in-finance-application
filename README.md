@@ -11,7 +11,6 @@
 
 ### Loan default risk detection
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
-<!-- A Dynamic Default Prediction Framework for Networked-guarantee Loans (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357804?casa_token=g5aFfcJjuvcAAAAA:A_JSguUP7bDKzfvc3gS9g-xK148zDElFVI_9NcidQR2pesONKXweN-hMigy2Z60EeQGo1Tlzty7r)-->
 - Risk Guarantee Prediction in Networked-Loans (IJCAI 2020) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
 - Loan Default Analysis with Multiplex Graph Learning  (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
 - Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
@@ -45,12 +44,9 @@
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
 
-
-### Bitcoin transaction
-- Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
-- EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/5984) [(Code)](https://github.com/IBM/EvolveGCN)
-- BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain (IJCAI 2020) [(Paper)](https://par.nsf.gov/servlets/purl/10176961)
-
 ### Others
 - Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents (CIKM 2020) [(Paper)](https://dl.acm.org/doi/abs/10.1145/3340531.3412707?casa_token=QYtSw-uPoyYAAAAA:ywodUHJco5k-iB-oVx6qq2Lx52B1qAp78JIog5cJkFYFHRyCJCp9l6em24DL_bB_kNOPNK4pMXBV) [(Code)](https://github.com/finint/graphSEAT)
 - FinSense: An Assistant System for Financial Journalists and Investors (WSDM 2021) [(Paper)](http://nlg.csie.ntu.edu.tw/~cjchen/papers/FinSense_WSDM_Demo_2021.pdf)
+- Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
+- EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/5984) [(Code)](https://github.com/IBM/EvolveGCN)
+- BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain (IJCAI 2020) [(Paper)](https://par.nsf.gov/servlets/purl/10176961)
