@@ -33,23 +33,16 @@
 
 
 
-#
-- HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf) [(Code)](https://github.com/sizhang92/Hierarchical-Dense-Subgraph-Detection)
-- Realtime Constrained Cycle Detection in Large Dynamic Graphs (VLDB 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.14778/3229863.3229874?casa_token=pghml_lNTWYAAAAA:IZExcFemxGfbYqCw-CaFCMGJL6wY7EgoowGjtrR0X8ZvMFC9E4u1X5Uw7pKymJ7kRkBN4_lcXvwd) [(Code)](https://github.com/NemesLaszlo/GraphS-system)
+### Fraud detection
+- Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
 - A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
-- FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)[(Code)](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb) 
-
-
-<!-- Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)-->
- 
-### Suspicious account detection in e-commerce platform
-- POSTER: Neural Network-based Graph Embedding for Malicious Accounts Detection (CCS 2017) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3133956.3138827?casa_token=CT4EK3sVhWoAAAAA:P0DMvVdnB6TdEn8f3vF_764-dpKeiLr65UGach8LyWAnQM5NJmb7oIWvfGQNwhRTiRQGsl2VHIOp)
-- Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
-
+- Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (IEEE 2019) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759109&casa_token=8WaseS5oTK8AAAAA:qEbrY_h4EGubKQbzmt1UXW0pjgFHAsc4p_FnEGpv0n8q4aMbVsTLT4gx7BsHzWoZOVnWUdVeAqg&tag=1)
+- xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs (Archive) [(Paper)](https://arxiv.org/abs/2011.12193)
+- Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection (IEEE ICDM 2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338325&casa_token=sts43RPr4NsAAAAA:Hrtp2ljJjhFSQreJ67PLmCLkf4NvjOo6XoI-wxMQSCU_bHlPQflscJyxq33rbjVTmeEi5xZ7C2c)
+- Anomaly Detection with Graph Convolutional Networks for Insider Threat and Fraud Detection (IEEE MILCOM 2019) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9020760&casa_token=HOAin88f29IAAAAA:cLoZdDyPRcDY2eTmca3v9O7GgNsW3X9ISBC2cb39Ihl7FoG6roaeLxrG_Xhmmx62EDXDZXFtYNU)
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
-- No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3308558.3313403?casa_token=kcUqKtcQCTwAAAAA:SsWvJ4DXxYPVEKfzScJlkJf0pPtNGKV2EeFde9usifovBiEs12-Z5d62IONfQes4lDrLn6XtMlO9)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
 
