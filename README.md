@@ -1,5 +1,5 @@
 # Graph-models-in-finance-application
-### Stock prediction
+### Stock movement prediction
 - Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269?casa_token=qkT-nreXKjAAAAAA:PWu9nuVshco6HHvTIRtwQ4M8KKgDLA1DUxPfRUbw4LKekHqm8B2UMOsPM0UUK7kB5InzNbe2M-vm) 
 - Temporal Relational Ranking for Stock Prediction (ACM TOIS 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3309547?casa_token=1-LBb6-Sg8sAAAAA:KGwC83jfJf5Ens-Fkns2uTO2IfNRfTrGTzzPhPCzKSuUirGfqR8tweMLYDpMFYgTToUHDgP5Na7e)[(Code)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
 - Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis (NIPS workshop 2019) [(Paper)](https://arxiv.org/pdf/1909.10660.pdf)
@@ -9,6 +9,18 @@
 - VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls (EMNLP 2020)[(Paper)](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf)
 - Time-aware Graph Relational Attention Network for Stock Recommendation (CIKM 2020)[(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412160?casa_token=iJHARlw9L3UAAAAA:gy91t3Ts7b6PThjHXrsICzaEnJjepfBbEFh5-qpHWxKaVwOEX881cL8GdhNaEi3ehsZpfCNNx4AN)
 
+### Loan default risk detection
+- Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
+<!-- A Dynamic Default Prediction Framework for Networked-guarantee Loans (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357804?casa_token=g5aFfcJjuvcAAAAA:A_JSguUP7bDKzfvc3gS9g-xK148zDElFVI_9NcidQR2pesONKXweN-hMigy2Z60EeQGo1Tlzty7r)-->
+- Risk Guarantee Prediction in Networked-Loans (IJCAI 2020) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
+- Loan Default Analysis with Multiplex Graph Learning  (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
+- Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
+- Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
+- Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
+- Explainable predictive business process monitoring using gated graph neural networks [(Paper)](https://www.researchgate.net/profile/Matthias-Stierle/publication/342008639_Explainable_predictive_business_process_monitoring_using_gated_graph_neural_networks/links/5ef1f4de4585154d390e6163/Explainable-predictive-business-process-monitoring-using-gated-graph-neural-networks.pdf)
+- Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets (WSDM 2021) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743?casa_token=w-De8wHS94IAAAAA:YDNDnE6D62k3G5HDxjBfTapMB5LI6Y0piv3IJi-a8ZBsGIuCSPqAytAhBRLWinTA-CwJtP5ylmH8)
+- Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
+- Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (Expert Systems with Applications 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310794)
 
 
 ### Financial fraud prediction
@@ -30,18 +42,7 @@
 - No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3308558.3313403?casa_token=kcUqKtcQCTwAAAAA:SsWvJ4DXxYPVEKfzScJlkJf0pPtNGKV2EeFde9usifovBiEs12-Z5d62IONfQes4lDrLn6XtMlO9)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
-### Loan default risk detection
-- Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation (IJCAI 2019) [(Paper)](https://www.ijcai.org/Proceedings/2019/0807.pdf)
-<!-- A Dynamic Default Prediction Framework for Networked-guarantee Loans (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357804?casa_token=g5aFfcJjuvcAAAAA:A_JSguUP7bDKzfvc3gS9g-xK148zDElFVI_9NcidQR2pesONKXweN-hMigy2Z60EeQGo1Tlzty7r)-->
-- Risk Guarantee Prediction in Networked-Loans (IJCAI 2020) [(Paper)](https://www.ijcai.org/Proceedings/2020/0618.pdf)
-- Loan Default Analysis with Multiplex Graph Learning  (CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412724?casa_token=TdtWt1HAIE8AAAAA:jZAxguORnjXyiIjxSQyGsrMBA-wlI7GQAFQHh1zk4Y2mKrDB9CmfaOcJv1dVbKoaCZ1bGtBl5_wX)
-- Contagious Chain Risk Rating for Networked-guarantee Loans (KDD 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403322?casa_token=qHvG3i0joW0AAAAA:YQRDfCu8JMVA_4qeZARYhQG5QDKac0cnMkkmjrkaec8EETz3kVf0YnpMG-N0eusl9tbcrolo27j7)
-- Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining  (IJCAI 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
-- Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3366423.3380159?casa_token=QPzcs9_P6vgAAAAA:A4FQ4MaBXYknRj99ZftdZRoyBULgTFB5nC5Z2P3wySfaDlm9TBr1Izc3U4eJZKVpT4qwZedZDXub)
-- Explainable predictive business process monitoring using gated graph neural networks [(Paper)](https://www.researchgate.net/profile/Matthias-Stierle/publication/342008639_Explainable_predictive_business_process_monitoring_using_gated_graph_neural_networks/links/5ef1f4de4585154d390e6163/Explainable-predictive-business-process-monitoring-using-gated-graph-neural-networks.pdf)
-- Credit Risk and Limits Forecasting in E-Commerce Consumer Lending Service via Multi-view-aware Mixture-of-experts Nets (WSDM 2021) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441743?casa_token=w-De8wHS94IAAAAA:YDNDnE6D62k3G5HDxjBfTapMB5LI6Y0piv3IJi-a8ZBsGIuCSPqAytAhBRLWinTA-CwJtP5ylmH8)
-- Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI 2021) [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)
-- Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (Expert Systems with Applications 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310794)
+
 
 ### Bitcoin transaction
 - Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (KDD workshop 2019) [(Paper)](https://arxiv.org/pdf/1908.02591.pdf) [(Data)](https://www.kaggle.com/ellipticco/elliptic-data-set)
