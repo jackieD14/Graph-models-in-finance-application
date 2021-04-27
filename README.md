@@ -4,13 +4,12 @@
 - Temporal Relational Ranking for Stock Prediction (ACM TOIS 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3309547?casa_token=1-LBb6-Sg8sAAAAA:KGwC83jfJf5Ens-Fkns2uTO2IfNRfTrGTzzPhPCzKSuUirGfqR8tweMLYDpMFYgTToUHDgP5Na7e)[(Code)](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
 - Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis (NIPS workshop 2019) [(Paper)](https://arxiv.org/pdf/1909.10660.pdf)
 - Using External Knowledge for Financial Event Prediction Based on Graph Neural Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3358156?casa_token=etIRCxfVKvMAAAAA:VSl8m1LKZvSaB3mQixvPqxOK-DLdrv3Tuzb_74qKN_YRw9gsmvirGb4z2s4_v5U8O2yvdDlETDem)
-- Knowledge-Driven Stock Trend Prediction and Explanation via Temporal Convolutional Network (WWW 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3308560.3317701?casa_token=GNb8mCm8vzsAAAAA:Pp41595NUCUeolyp-Bb9mBzokCuzPfUJcB7Udd3nmuZ0ztujqPazMO84LS2JqJHxaHVuD-C2fS79)
 - Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction (IJCAI 2020)[(Paper)](https://www.ijcai.org/Proceedings/2020/0626.pdf) [(Code)](https://github.com/liweitj47/overnight-stock-movement-prediction)
 - Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations (EMNLP 2020) [(Paper)](https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf)
 - VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls (EMNLP 2020)[(Paper)](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf)
 - Time-aware Graph Relational Attention Network for Stock Recommendation (CIKM 2020)[(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412160?casa_token=iJHARlw9L3UAAAAA:gy91t3Ts7b6PThjHXrsICzaEnJjepfBbEFh5-qpHWxKaVwOEX881cL8GdhNaEi3ehsZpfCNNx4AN)
-- Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401427?casa_token=E7qBjGg_xngAAAAA:AfH-m-CVRBaOc0NFc-P-KvRKBSmvh5cSmyd3YxqD3F9FboXcrxzdm573xbVgnLaWZQuCpdzho3et)
-- FinSense: An Assistant System for Financial Journalists and Investors (WSDM 2021) [(Paper)](http://nlg.csie.ntu.edu.tw/~cjchen/papers/FinSense_WSDM_Demo_2021.pdf)
+
+
 
 ### Financial fraud prediction
 - HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf) [(Code)](https://github.com/sizhang92/Hierarchical-Dense-Subgraph-Detection)
@@ -51,4 +50,4 @@
 
 ### Others
 - Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents (CIKM 2020) [(Paper)](https://dl.acm.org/doi/abs/10.1145/3340531.3412707?casa_token=QYtSw-uPoyYAAAAA:ywodUHJco5k-iB-oVx6qq2Lx52B1qAp78JIog5cJkFYFHRyCJCp9l6em24DL_bB_kNOPNK4pMXBV) [(Code)](https://github.com/finint/graphSEAT)
-
+- FinSense: An Assistant System for Financial Journalists and Investors (WSDM 2021) [(Paper)](http://nlg.csie.ntu.edu.tw/~cjchen/papers/FinSense_WSDM_Demo_2021.pdf)
