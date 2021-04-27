@@ -25,11 +25,13 @@
 
 ### Recommender system of e-commerce
 - Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
+- Hierarchical Representation Learning for Bipartite Graphs (IJCAI 2019)[(Paper)](https://www.ijcai.org/Proceedings/2019/0398.pdf)
+- GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
 - Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters(CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903?casa_token=UPHvdYBQrUEAAAAA:HiRuitww4VcARYlvwFsmHGLLbYseI6Qhr4a5sqYAzsQsQ5S1sZW_PmtKDnOrjJdlcuoApwekrlG3) [(Code)](https://github.com/YingtongDou/CARE-GNN)
 - GCNEXT: graph convolutional network with expanded balance theory for fraudulent user detection (Social Network Analysis and Mining 2020)[(Paper)](https://link.springer.com/article/10.1007/s13278-020-00697-w)
 - Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications (IEEE 2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101846&casa_token=bijgy8cCKoMAAAAA:tO2gqx57y4e54s_jHj45buSg91h3or9PjPdFntg8SBYRfbL2ksh5JhbQosbr6qt453pEJl66Z7U&tag=1)
-- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=p17umGpwN2sAAAAA:Xsw5D3Q60CMZWLZr9WopUiSkcNb3aqArzKIDscdz9wAOU_ylSFQw4VXi2JF2XyBlDtj5_53GnlXhYYM)
-- GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
+
+
 
 #
 - HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf) [(Code)](https://github.com/sizhang92/Hierarchical-Dense-Subgraph-Detection)
