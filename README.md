@@ -35,12 +35,12 @@
 ### Fraud detection
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
-- Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
 - Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (IEEE 2019) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759109&casa_token=8WaseS5oTK8AAAAA:qEbrY_h4EGubKQbzmt1UXW0pjgFHAsc4p_FnEGpv0n8q4aMbVsTLT4gx7BsHzWoZOVnWUdVeAqg&tag=1)
 - xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs (Archive) [(Paper)](https://arxiv.org/abs/2011.12193)
 - Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection (IEEE ICDM 2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338325&casa_token=sts43RPr4NsAAAAA:Hrtp2ljJjhFSQreJ67PLmCLkf4NvjOo6XoI-wxMQSCU_bHlPQflscJyxq33rbjVTmeEi5xZ7C2c) [(Code)](https://github.com/iqiyi/HMGNN)
 - Anomaly Detection with Graph Convolutional Networks for Insider Threat and Fraud Detection (IEEE MILCOM 2019) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9020760&casa_token=HOAin88f29IAAAAA:cLoZdDyPRcDY2eTmca3v9O7GgNsW3X9ISBC2cb39Ihl7FoG6roaeLxrG_Xhmmx62EDXDZXFtYNU)
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
+-  GNN-based Graph Anomaly Detection with Graph Anomaly Loss (KDD 2020) [(Paper)](https://tzhao.io/files/papers/DLG20_GAL.pdf)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
 
 
