@@ -35,7 +35,6 @@
 
 ### Fraud detection
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
-- A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
 - Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (IEEE 2019) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759109&casa_token=8WaseS5oTK8AAAAA:qEbrY_h4EGubKQbzmt1UXW0pjgFHAsc4p_FnEGpv0n8q4aMbVsTLT4gx7BsHzWoZOVnWUdVeAqg&tag=1)
