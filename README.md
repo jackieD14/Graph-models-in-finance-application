@@ -24,7 +24,7 @@
 
 
 ### Recommender system of e-commerce
-- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
+- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75) [(Code)](https://github.com/safe-graph/DGFraud)
 - Hierarchical Representation Learning for Bipartite Graphs (IJCAI 2019)[(Paper)](https://www.ijcai.org/Proceedings/2019/0398.pdf)
 - GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
 - Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters(CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903?casa_token=UPHvdYBQrUEAAAAA:HiRuitww4VcARYlvwFsmHGLLbYseI6Qhr4a5sqYAzsQsQ5S1sZW_PmtKDnOrjJdlcuoApwekrlG3) [(Code)](https://github.com/YingtongDou/CARE-GNN)
