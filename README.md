@@ -23,21 +23,29 @@
 - Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers (Expert Systems with Applications 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310794)
 
 
-### Financial fraud prediction
+### Recommender system of e-commerce
+- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
+- Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters(CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903?casa_token=UPHvdYBQrUEAAAAA:HiRuitww4VcARYlvwFsmHGLLbYseI6Qhr4a5sqYAzsQsQ5S1sZW_PmtKDnOrjJdlcuoApwekrlG3) [(Code)](https://github.com/YingtongDou/CARE-GNN)
+- GCNEXT: graph convolutional network with expanded balance theory for fraudulent user detection (Social Network Analysis and Mining 2020)[(Paper)](https://link.springer.com/article/10.1007/s13278-020-00697-w)
+- Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications (IEEE 2020) [(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101846&casa_token=bijgy8cCKoMAAAAA:tO2gqx57y4e54s_jHj45buSg91h3or9PjPdFntg8SBYRfbL2ksh5JhbQosbr6qt453pEJl66Z7U&tag=1)
+- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=p17umGpwN2sAAAAA:Xsw5D3Q60CMZWLZr9WopUiSkcNb3aqArzKIDscdz9wAOU_ylSFQw4VXi2JF2XyBlDtj5_53GnlXhYYM)
+- GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
+
+#
 - HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection (SDM 2017) [(Paper)](https://www.researchgate.net/profile/Si_Zhang11/publication/317485593_HiDDen_Hierarchical_Dense_Subgraph_Detection_with_Application_to_Financial_Fraud_Detection/links/59fac88e0f7e9b61546f5587/HiDDen-Hierarchical-Dense-Subgraph-Detection-with-Application-to-Financial-Fraud-Detection.pdf) [(Code)](https://github.com/sizhang92/Hierarchical-Dense-Subgraph-Detection)
 - Realtime Constrained Cycle Detection in Large Dynamic Graphs (VLDB 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.14778/3229863.3229874?casa_token=pghml_lNTWYAAAAA:IZExcFemxGfbYqCw-CaFCMGJL6wY7EgoowGjtrR0X8ZvMFC9E4u1X5Uw7pKymJ7kRkBN4_lcXvwd) [(Code)](https://github.com/NemesLaszlo/GraphS-system)
 - A Semi-supervised Graph Attentive Network for Financial Fraud Detection (IEEE ICDM 2019) [(Paper)](https://www.computer.org/csdl/proceedings-article/icdm/2019/460400a598/1h5XFkRwULK) [(Code)](https://github.com/safe-graph/DGFraud)
 - Uncovering Insurance Fraud Conspiracy with Network Learning (SIGIR 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3331184.3331372?casa_token=DXV3mQ46Ft4AAAAA:SqaW7ThZMKeRfeWqcx_DqjP2UaO_MQABs7Xq7tNVomtFxgv3-bv9LfViAU5CpX4WZ-_mR2cNswdD)
 - Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism  (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/3884)  [(Code)](https://github.com/safe-graph/DGFraud)
 - FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/download/5906/5762)[(Code)](https://github.com/BGT-M/spartan2-tutorials/blob/master/FlowScope.ipynb) 
-- Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters(CIKM 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903?casa_token=UPHvdYBQrUEAAAAA:HiRuitww4VcARYlvwFsmHGLLbYseI6Qhr4a5sqYAzsQsQ5S1sZW_PmtKDnOrjJdlcuoApwekrlG3) [(Code)](https://github.com/YingtongDou/CARE-GNN)
-- GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection (SIGIR 2020) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3397271.3401165?casa_token=sI-bGvhvmT4AAAAA:FMAF_B4EEsvirySbCIM-OyAaPiqsgCusOG3A0Ka8AlMOlVbMrj26KzTspuSYjyEdeFZ7-yQOcvpA) [(Code)](https://github.com/zsjdddhr/GraphRfi)
+
+
 <!-- Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020) [(Paper)](https://ojs.aaai.org//index.php/AAAI/article/view/5371)-->
  
 ### Suspicious account detection in e-commerce platform
 - POSTER: Neural Network-based Graph Embedding for Malicious Accounts Detection (CCS 2017) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3133956.3138827?casa_token=CT4EK3sVhWoAAAAA:P0DMvVdnB6TdEn8f3vF_764-dpKeiLr65UGach8LyWAnQM5NJmb7oIWvfGQNwhRTiRQGsl2VHIOp)
 - Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272010?casa_token=vWL_ez-5K0UAAAAA:OJqSTIITZTSGUxbksHmSbmMHgoPWsuiIir03cP9zVKEZsaySdJa1zTeVMQ4NJdO7kV4hkZZeDssl) [(Code)](https://github.com/safe-graph/DGFraud)
-- Spam Review Detection with Graph Convolutional Networks (CIKM 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3357384.3357820?casa_token=UckpMdmpLEAAAAAA:zbD4u-FhN6zjuYth4GYN-bEXwjXFVLFbdw02Gc9zfege9ly0eOo-fefxWOiA0yVPbnmAvnDGBY75)
+
 -  Geniepath: Graph neural networks with adaptive receptive paths (AAAI 2019) [(Paper)](https://ojs.aaai.org/index.php/AAAI/article/view/4354) [(Code)](https://github.com/safe-graph/DGFraud)
 - No Place to Hide: Catching Fraudulent Entities in Tensors (WWW 2019) [(Paper)](https://dl.acm.org/doi/pdf/10.1145/3308558.3313403?casa_token=kcUqKtcQCTwAAAAA:SsWvJ4DXxYPVEKfzScJlkJf0pPtNGKV2EeFde9usifovBiEs12-Z5d62IONfQes4lDrLn6XtMlO9)
 - Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI workshop 2021) [(Paper)](https://arxiv.org/pdf/2012.10831.pdf)
